@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Nguyen Ba Trung
 
-**Intern Back-end Java Developer**
+**Intern/Fresher Back-end Java Developer**
 
 📞 0333783506 • 🏠 District 12, HCM City • 📧 trungnguyenba1207@gmail.com
 
@@ -22,24 +22,6 @@ I aim to become a Junior Java Developer within two years, honing my expertise in
 - **Source Control**: Git, GitHub.
 - **Methodology**: Scrum, Agile.
 - **Tools**: IntelliJ, DataGrip, Postman.
-
----
-
-## PROJECT
-
-### Vegetable-shopping – Leader
-**May 2024 - June 2024**
-
-- **Description**: Developed an e-commerce project using a microservices architecture, featuring functionalities such as login, registration, shopping cart, online payment, search, reporting, blog, decentralization, and admin management.
-- **Technical Stack**: Spring Boot, Spring Data JPA, Spring Security with JWT, MySQL, AWS (S3), Thymeleaf, Git, Axios.
-- **Team Size**: 6
-- **Responsibilities**:
-  - Assign and manage member tasks.
-  - Participate in database analysis and design.
-  - Upload images to AWS, handle exceptions, implement OAuth2, and ensure security.
-  - Design APIs and implement them using Axios for client-side interactions.
-  - Deploy project to Docker Hub.
-- **GitHub**: [Vegetable-shopping](https://github.com/nguyenbatrung714/vegetable-shopping.git)
 
 ---
 
