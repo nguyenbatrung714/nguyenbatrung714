@@ -1,4 +1,61 @@
 ## Hi there 👋
+# Nguyen Ba Trung
+
+**Intern Back-end Java Developer**
+
+📞 0333783506 • 🏠 District 12, HCM City • 📧 trungnguyenba1207@gmail.com
+
+---
+
+## PROFESSIONAL OBJECTIVE
+
+I aim to become a Junior Java Developer within two years, honing my expertise in Spring Boot and excelling in API design. Over the next four years, my goal is to advance to a Senior Java Developer role, continuously updating my soft skills, engaging in system analysis and design, and formulating project strategies.
+
+---
+
+## TECHNICAL SKILLS
+
+### Technical:
+- **Back-end**: Java core, Spring Boot, Spring Data JPA, Spring Security with JWT, RESTful APIs, SOLID principles.
+- **Database**: MySQL, SQL Server.
+- **Front-end**: HTML, CSS, JavaScript, Bootstrap.
+- **Source Control**: Git, GitHub.
+- **Methodology**: Scrum, Agile.
+- **Tools**: IntelliJ, DataGrip, Postman.
+
+---
+
+## PROJECT
+
+### Vegetable-shopping – Leader
+**May 2024 - June 2024**
+
+- **Description**: Developed an e-commerce project using a microservices architecture, featuring functionalities such as login, registration, shopping cart, online payment, search, reporting, blog, decentralization, and admin management.
+- **Technical Stack**: Spring Boot, Spring Data JPA, Spring Security with JWT, MySQL, AWS (S3), Thymeleaf, Git, Axios.
+- **Team Size**: 6
+- **Responsibilities**:
+  - Assign and manage member tasks.
+  - Participate in database analysis and design.
+  - Upload images to AWS, handle exceptions, implement OAuth2, and ensure security.
+  - Design APIs and implement them using Axios for client-side interactions.
+  - Deploy project to Docker Hub.
+- **GitHub**: [Vegetable-shopping](https://github.com/nguyenbatrung714/vegetable-shopping.git)
+
+---
+
+## EDUCATION
+
+### FPT Polytechnic College – Software Development
+**August 2022 – December 2024**
+- GPA: 8.5
+
+---
+
+## SOFT SKILLS
+
+- Teamwork
+- Time management
+- Problem-solving
 
 <!--
 **nguyenbatrung714/nguyenbatrung714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
